@@ -27,6 +27,8 @@ Most security checklists are written by compliance teams for compliance teams. T
 | 5 | Network & Cloud | 4 | Firewall, exposed storage, credential file exposure |
 | 6 | People & Process | 5 | Incident response, dark web monitoring, vendor risk |
 
+![Six categories overview](docs/diagram.png)
+
 ---
 
 ## Priority Order — If You're Starting From Scratch
